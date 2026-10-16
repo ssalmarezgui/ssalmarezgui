@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Salma%20Rezgui&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=DevSecOps%20%C2%B7%20Explainable%20AI%20%C2%B7%20Secure%20Systems&descAlignY=60&descSize=17" alt="Salma Rezgui"/>
+<img src="assets/banner.png" alt="Salma Rezgui - DevSecOps, Explainable AI, Secure Systems" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=2C5364&center=true&vCenter=true&width=640&lines=Élève+ingénieure+%40+ENSI+(3e+de+promotion);Pipelines+DevSecOps+%26+Shift-Left+Security;IA+explicable+pour+la+santé+(SHAP+%C2%B7+LIME+%C2%B7+DiCE);Recherche+d'un+stage+de+PFE)](https://git.io/typing-svg)
 
@@ -77,15 +77,19 @@ Je construis des systèmes critiques **sûrs** et **explicables** :
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & attestations
 
-| Certification | Organisme | Date | Vérification |
+| Formation | Organisme | Date | Vérification |
 |---|---|---|---|
-| ![Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco%20Networking%20Academy-1BA0D7?logo=cisco&logoColor=white) | Cisco Networking Academy | 03/2026 | [Voir](TODO-lien-credly-ou-certificat) |
-| ![DataCamp](https://img.shields.io/badge/SQL%20Fundamentals-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 09/2025 | [Voir](TODO-lien-datacamp-sql) |
+| ![DataCamp](https://img.shields.io/badge/Introduction%20to%20Power%20BI-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 10/2026 | [Voir](https://www.datacamp.com/statement-of-accomplishment/course/831d2d97e6b8a647b101cac52f3bc1cb3c104d03?raw=1) |
+| ![DataCamp](https://img.shields.io/badge/Working%20with%20the%20OpenAI%20API-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 10/2026 | [Voir](https://www.datacamp.com/statement-of-accomplishment/course/349f7ae0a6646d509b5b838f0d05654b7dd6f3d0?raw=1) |
+| ![Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco%20Networking%20Academy-1BA0D7?logo=cisco&logoColor=white) | Cisco Networking Academy | 03/2026 | [Voir](TODO-lien-cisco) |
+| ![DataCamp](https://img.shields.io/badge/SQL%20Fundamentals%20(26h)-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 09/2025 | [Voir](https://www.datacamp.com/statement-of-accomplishment/track/260be043627bccdedacdfa0709b64484d0de1898?raw=1) |
 | ![DataCamp](https://img.shields.io/badge/Introduction%20to%20AI%20Agents-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 08/2025 | [Voir](TODO-lien-datacamp-agents) |
 | ![DataCamp](https://img.shields.io/badge/Supervised%20Learning%20with%20scikit--learn-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 07/2025 | [Voir](TODO-lien-datacamp-sklearn) |
 | ![DataCamp](https://img.shields.io/badge/Git%20%26%20GitHub-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 07/2025 | [Voir](TODO-lien-datacamp-git) |
+
+> Les attestations DataCamp sont des *statements of accomplishment* délivrés à la fin de chaque cours ou parcours.
 
 ---
 
