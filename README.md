@@ -85,7 +85,7 @@ Je construis des systèmes critiques **sûrs** et **explicables** :
 | ![DataCamp](https://img.shields.io/badge/Working%20with%20the%20OpenAI%20API-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 10/2026 | [Voir](https://www.datacamp.com/statement-of-accomplishment/course/349f7ae0a6646d509b5b838f0d05654b7dd6f3d0?raw=1) |
 | ![Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco%20Networking%20Academy-1BA0D7?logo=cisco&logoColor=white) | Cisco Networking Academy | 03/2026 | [Voir](TODO-lien-cisco) |
 | ![DataCamp](https://img.shields.io/badge/SQL%20Fundamentals%20(26h)-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 09/2025 | [Voir](https://www.datacamp.com/statement-of-accomplishment/track/260be043627bccdedacdfa0709b64484d0de1898?raw=1) |
-| ![DataCamp](https://img.shields.io/badge/Introduction%20to%20AI%20Agents-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 08/2025 | [Voir](TODO-lien-datacamp-agents) |
+| ![DataCamp](https://img.shields.io/badge/Introduction%20to%20AI%20Agents-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 08/2025 | [Voir](https://www.datacamp.com/statement-of-accomplishment/course/f4200dfa7cb28678237940953c80c4d9bd5f8223?raw=1) |
 | ![DataCamp](https://img.shields.io/badge/Supervised%20Learning%20with%20scikit--learn-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 07/2025 | [Voir](TODO-lien-datacamp-sklearn) |
 | ![DataCamp](https://img.shields.io/badge/Git%20%26%20GitHub-DataCamp-03EF62?logo=datacamp&logoColor=white) | DataCamp | 07/2025 | [Voir](TODO-lien-datacamp-git) |
 
